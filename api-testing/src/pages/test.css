@@ -1,0 +1,22 @@
+html{
+    padding: 20px;
+    background-color: aqua;
+}
+.btn{
+    font-size: xx-large;
+    background-color: darkmagenta;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(139, 0, 139,0.8);
+}
+.beer, .tagline{
+    padding: 20px;
+}
+
+.beer-group{
+    display: flex;
+}
